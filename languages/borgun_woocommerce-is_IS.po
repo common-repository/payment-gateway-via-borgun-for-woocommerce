@@ -1,0 +1,302 @@
+# Copyright (C) 2020 Tactica
+# This file is distributed under the same license as the WooCommerce Borgun Gateway plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Borgun Gateway 1.3.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/payment-gateway-"
+"via-borgun-for-woocommerce\n"
+"POT-Creation-Date: 2020-04-10T13:50:33+00:00\n"
+"PO-Revision-Date: 2023-11-06 10:32+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic\n"
+"Language: is_IS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: borgun_woocommerce\n"
+
+#: borgun.php:309
+msgid "Buyer will be sent to this page after a successful payment."
+msgstr ""
+
+#: borgun.php:321
+msgid "Buyer will be sent to this page if an unexpected error occurs."
+msgstr ""
+
+#: borgun.php:315
+msgid ""
+"Buyer will be sent to this page if he pushes the cancel button instead of "
+"finalizing the payment."
+msgstr ""
+
+#: borgun.php:297
+msgid "Buyer will see this text after woocommerce order create."
+msgstr ""
+
+#: borgun.php:303
+msgid "Buyer will see this text before redirecting to Teya"
+msgstr ""
+
+#: borgun.php:558
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: borgun.php:313
+msgid "Cancel Page URL"
+msgstr ""
+
+#: borgun.php:195
+msgid ""
+"Current Store currency is not valid for Teya gateway. Must be in ISK, USD, "
+"EUR, GBP, DKK, NOK, SEK, CHF, JPY, CAD, HUF"
+msgstr ""
+
+#: borgun.php:239
+msgid "Description"
+msgstr ""
+
+#: borgun.php:504
+msgid "Discount"
+msgstr ""
+
+#: borgun.php:246
+msgid "Enable Test Mode"
+msgstr ""
+
+#: borgun.php:227
+msgid "Enable Teya"
+msgstr ""
+
+#: borgun.php:226
+msgid "Enable/Disable"
+msgstr ""
+
+#: borgun.php:282
+msgid "English"
+msgstr ""
+
+#: borgun.php:319
+msgid "Error Page URL"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Extends WooCommerce with a <a href=\"https://docs.borgun."
+"is/hostedpayments/securepay/\" target=\"_blank\">Teya SecurePay</a> gateway."
+msgstr ""
+
+#: borgun.php:284
+msgid "French"
+msgstr ""
+
+#: borgun.php:195
+msgid "Gateway Disabled:"
+msgstr ""
+
+#: borgun.php:283
+msgid "German"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://tactica.is"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://profiles.wordpress.org/tacticais/"
+msgstr ""
+
+#: borgun.php:290
+msgid "Hungarian"
+msgstr ""
+
+#: borgun.php:281
+msgid "Icelandic"
+msgstr ""
+
+#: borgun.php:285
+msgid "Italian"
+msgstr ""
+
+#: borgun.php:276
+msgid "Language of Payment Page"
+msgstr ""
+
+#: borgun.php:258
+msgid "Merchant ID"
+msgstr ""
+
+#: borgun.php:270
+msgid "Notification Email"
+msgstr ""
+
+#: borgun.php:647
+msgid "Order hash doesn't match"
+msgstr ""
+
+#: borgun.php:325
+msgid "Order line items grouping"
+msgstr ""
+
+#: borgun.php:561
+msgid "Pay via Teya"
+msgstr ""
+
+#: borgun.php:191 borgun.php:242
+msgid "Pay with your credit card via Teya."
+msgstr ""
+
+#: borgun.php:836
+msgid "Payment canceled by the customer"
+msgstr ""
+
+#: borgun.php:823
+msgid "Payment error"
+msgstr ""
+
+#: borgun.php:252
+msgid "Payment Gateway ID"
+msgstr ""
+
+#. Name of the plugin
+msgid "Payment gateway via Teya SecurePay for WooCommerce"
+msgstr ""
+
+#: borgun.php:248
+msgid "Place the payment gateway in development mode."
+msgstr ""
+
+#: borgun.php:286
+msgid "Portugese"
+msgstr ""
+
+#: borgun.php:295
+msgid "Receipt text"
+msgstr ""
+
+#: borgun.php:301
+msgid "Redirect text"
+msgstr ""
+
+#: borgun.php:877
+msgid "Refund failed."
+msgstr ""
+
+#: borgun.php:922
+#, php-format
+msgid "Refunded %s %s via Teya"
+msgstr ""
+
+#: borgun.php:287
+msgid "Russian"
+msgstr ""
+
+#: borgun.php:264
+msgid "Secret Key"
+msgstr ""
+
+#: borgun.php:278
+msgid "Select which language to show on Payment Page."
+msgstr ""
+
+#: borgun.php:326
+msgid "Send order as 1 line item"
+msgstr ""
+
+#. %s: Shipping
+#: borgun.php:479
+#, php-format
+msgid "Shipping (%s)"
+msgstr "Sendingarkostnaður (%s)"
+
+#: borgun.php:291
+msgid "Slovene"
+msgstr ""
+
+#: borgun.php:288
+msgid "Spanish"
+msgstr ""
+
+#: borgun.php:307
+msgid "Success Page URL"
+msgstr ""
+
+#: borgun.php:289
+msgid "Swedish"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tactica"
+msgstr ""
+
+#: borgun.php:486
+msgid "Taxes"
+msgstr "Virðisaukaskattur"
+
+#: borgun.php:146 borgun.php:190 borgun.php:236
+msgid "Teya"
+msgstr ""
+
+#: borgun.php:927
+#, php-format
+msgid "Teya error: %s, Amount: %s %s"
+msgstr ""
+
+#: borgun.php:619
+msgid "Teya payment completed"
+msgstr ""
+
+#: borgun.php:147
+msgid ""
+"Teya Secure Payment Page enables merchants to sell products securely on the "
+"web with minimal integration effort"
+msgstr ""
+
+#: borgun.php:245
+msgid "Teya Test Mode"
+msgstr ""
+
+#: borgun.php:168 borgun.php:298
+msgid ""
+"Thank you - your order is now pending payment. We are now redirecting you to "
+"Teya to make payment."
+msgstr ""
+
+#: borgun.php:169 borgun.php:304
+msgid ""
+"Thank you for your order. We are now redirecting you to Teya to make payment."
+msgstr ""
+
+#: borgun.php:241
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: borgun.php:235
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: borgun.php:272
+msgid "This is the email Teya will send payment receipts to."
+msgstr ""
+
+#: borgun.php:260
+msgid "This is the ID supplied by Teya."
+msgstr ""
+
+#: borgun.php:254
+msgid "This is the Payment Gateway ID supplied by Teya."
+msgstr ""
+
+#: borgun.php:266
+msgid "This is the Secret Key supplied by Teya."
+msgstr ""
+
+#: borgun.php:233
+msgid "Title"
+msgstr "Titill"
+
+#: borgun.php:328
+msgid ""
+"You can uncheck this if you don't use discounts and have integer quantities."
+msgstr ""
